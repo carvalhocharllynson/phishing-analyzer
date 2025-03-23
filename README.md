@@ -22,11 +22,21 @@ Utilizado para o treinamento do modelo de análise de URL's. Pode ser encontrado
 ## **Passo a passo para execução**
     
 1. Clone o repositório:
-    ```git clone https://github.com/carvalhocharllynson/phishing-analyzer```
+
+    ```bash
+    git clone https://github.com/carvalhocharllynson/phishing-analyzer
+    ```
+    
+    ```bash
+    cd phishing-analyzer
+    ```
 
 2. Instale as dependências:
-Certifique-se de ter o Python3 instalado e em seguida, instale as dependências do projeto.
-    ```pip install -r requirements.txt ```
+    * Certifique-se de ter o Python3 instalado e em seguida, instale as dependências do projeto.
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Estrutura do Projeto
 
@@ -34,5 +44,5 @@ Certifique-se de ter o Python3 instalado e em seguida, instale as dependências 
 
 ## Autores
 
-- CharlLynson Carvalho
+- Charllynson Carvalho
 - Fernanda Cardoso Petiz
