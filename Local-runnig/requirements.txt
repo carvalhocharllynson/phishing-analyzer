@@ -1,0 +1,7 @@
+nltk
+requests
+matplotlib
+pandas
+numpy
+scikit-learn
+gradio
